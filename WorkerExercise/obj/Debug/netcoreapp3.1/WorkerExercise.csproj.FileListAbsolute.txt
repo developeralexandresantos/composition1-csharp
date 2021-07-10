@@ -1,0 +1,13 @@
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\bin\Debug\netcoreapp3.1\WorkerExercise.exe
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\bin\Debug\netcoreapp3.1\WorkerExercise.deps.json
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\bin\Debug\netcoreapp3.1\WorkerExercise.runtimeconfig.json
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\bin\Debug\netcoreapp3.1\WorkerExercise.runtimeconfig.dev.json
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\bin\Debug\netcoreapp3.1\WorkerExercise.dll
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\bin\Debug\netcoreapp3.1\WorkerExercise.pdb
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\obj\Debug\netcoreapp3.1\WorkerExercise.csproj.AssemblyReference.cache
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\obj\Debug\netcoreapp3.1\WorkerExercise.AssemblyInfoInputs.cache
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\obj\Debug\netcoreapp3.1\WorkerExercise.AssemblyInfo.cs
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\obj\Debug\netcoreapp3.1\WorkerExercise.csproj.CoreCompileInputs.cache
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\obj\Debug\netcoreapp3.1\WorkerExercise.dll
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\obj\Debug\netcoreapp3.1\WorkerExercise.pdb
+D:\Curso\C sharp completo Nelio Alves\ws-vs2019\WorkerExercise\WorkerExercise\obj\Debug\netcoreapp3.1\WorkerExercise.genruntimeconfig.cache
